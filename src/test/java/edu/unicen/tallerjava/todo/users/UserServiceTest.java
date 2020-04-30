@@ -96,7 +96,6 @@ public class UserServiceTest {
         User a = userService.login("A");
         User b = userService.login("B");
         User c = userService.login("C");
-
         // Arrancan en nueve porque ya hay 8 usuarios guardados.
         assertTrue(a.getId().equals(9));
         assertTrue(b.getId().equals(10));
@@ -105,6 +104,7 @@ public class UserServiceTest {
 
     @Test()
     public void testAddUsersAndClear() throws Exception {
+        //AGREGAR MAS ITERACIONES PARA QUE FALLE SIEMPRE, ES INESTABLE
         for (int i = 0; i < 100; i++) {
             for (int j = 0; j < 5000; j++) {
                 userService.addUser(new User("Test", i * j));

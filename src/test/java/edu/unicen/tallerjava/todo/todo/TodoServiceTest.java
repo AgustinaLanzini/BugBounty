@@ -80,7 +80,7 @@ public class TodoServiceTest {
 
     /**
      * Agrega 3 todos, uno cada 2 segundos. Borra todos los To-Dos que se hayan
-     * agregado hace MÁS de 5 segundos. En este caso, debería borrar solo el primero.
+     * agregado hace mas de 5 segundos. En este caso, debería borrar solo el primero.
      *
      * @throws InterruptedException
      */

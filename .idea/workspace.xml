@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a99910eb-a2e2-43fd-ab62-750e8d6bf3d7" name="Default Changelist" comment="" />
+    <list default="true" id="a99910eb-a2e2-43fd-ab62-750e8d6bf3d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Proyecto - BugBounty.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/log/LogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/log/LogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/users/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/users/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/todo/TodoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/todo/TodoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/users/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/users/UserServiceTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="369" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -13,7 +36,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bAemTPrbNTGZ98QF4cnlKPmiIa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,9 +58,116 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.UserServiceTest.testAddNullUser">
+    <configuration name="LogServiceTest.addLogs" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;edu.unicen.tallerjava.todo.log.LogServiceTest.addLogs&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'BugBounty.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;edu.unicen.tallerjava.todo.users.UserServiceTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserServiceTest.testAddNullUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;edu.unicen.tallerjava.todo.users.UserServiceTest.testAddNullUser&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserServiceTest.testLoginUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;edu.unicen.tallerjava.todo.users.UserServiceTest.testLoginUser&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="CollaborativeToDo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Proyecto_-_BugBounty.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="edu.unicen.tallerjava.todo.CollaborativeToDo" />
@@ -45,6 +175,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.UserServiceTest.testAddNullUser" />
+        <item itemvalue="Gradle.UserServiceTest.testLoginUser" />
+        <item itemvalue="Gradle.LogServiceTest.addLogs" />
+        <item itemvalue="Gradle.UserServiceTest" />
+        <item itemvalue="Gradle.Tests in 'BugBounty.test'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,6 +228,8 @@
       <workItem from="1588083721722" duration="2000" />
       <workItem from="1588083738244" duration="559000" />
       <workItem from="1588196610420" duration="274000" />
+      <workItem from="1588197286447" duration="98000" />
+      <workItem from="1588197475909" duration="11752000" />
     </task>
     <servers />
   </component>
@@ -79,53 +242,64 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="618" y="148" key="#CollaborativeToDo" timestamp="1588197633367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="148" key="#CollaborativeToDo/0.0.1920.1040@0.0.1920.1040" timestamp="1588197633367" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588079541191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588079541191" />
+    <state x="742" y="350" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1588201855894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="350" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588201855894" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588079620888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588079620888" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1588082036323">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1588219858626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588082036323" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1588082036323">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1588219858626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588082036323" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1588082036323">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1588219858626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588082036323" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1588082036323">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1588219858626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588082036323" />
-    <state width="1877" height="281" key="GridCell.Tab.1.bottom" timestamp="1588082036323">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588219858626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588082036323" />
-    <state width="1877" height="281" key="GridCell.Tab.1.center" timestamp="1588082036323">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1588219858626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588082036323" />
-    <state width="1877" height="281" key="GridCell.Tab.1.left" timestamp="1588082036323">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1588219858626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588082036323" />
-    <state width="1877" height="281" key="GridCell.Tab.1.right" timestamp="1588082036323">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1588219858626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588082036323" />
-    <state x="676" y="58" key="SettingsEditor" timestamp="1588081701230">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state x="676" y="58" key="SettingsEditor" timestamp="1588197493169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="676" y="58" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588081701230" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588196612249">
+    <state x="676" y="58" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588197493169" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588197494490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588196612249" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588197494490" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BugBounty$Tests_in__BugBounty_test_.ic" NAME="Tests in 'BugBounty.test' Coverage Results" MODIFIED="1588198455463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
