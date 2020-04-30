@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.unicen.tallerjava.todo.users.UserServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-30T04:11:00" hostname="DESKTOP-I1F4DBT" time="0.433">
-  <properties/>
-  <testcase name="testAddNullUser" classname="edu.unicen.tallerjava.todo.users.UserServiceTest" time="0.433"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

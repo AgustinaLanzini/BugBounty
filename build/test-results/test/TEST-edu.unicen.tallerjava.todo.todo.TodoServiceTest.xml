@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.unicen.tallerjava.todo.todo.TodoServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-30T05:26:26" hostname="DESKTOP-I1F4DBT" time="0.63">
+  <properties/>
+  <testcase name="testCreateTodo" classname="edu.unicen.tallerjava.todo.todo.TodoServiceTest" time="0.63"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

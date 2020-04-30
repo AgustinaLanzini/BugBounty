@@ -4,23 +4,22 @@
     <list default="true" id="a99910eb-a2e2-43fd-ab62-750e8d6bf3d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Proyecto - BugBounty.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/log/LogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/log/LogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/users/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/users/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/todo/TodoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/todo/TodoServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/users/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/users/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/edu.unicen.tallerjava.todo.users.UserServiceTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/edu.unicen.tallerjava.todo.users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-edu.unicen.tallerjava.todo.users.UserServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/todo/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unicen/tallerjava/todo/todo/TodoService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,7 +76,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.UserServiceTest.testAddNullUser">
+  <component name="RunManager" selected="Gradle.TodoServiceTest.testCreateTodo">
     <configuration name="LogServiceTest.addLogs" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -88,12 +97,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Tests in 'BugBounty.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TodoServiceTest.testCreateTodo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests *" />
+        <option name="scriptParameters" value="--tests &quot;edu.unicen.tallerjava.todo.todo.TodoServiceTest.testCreateTodo&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -177,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.TodoServiceTest.testCreateTodo" />
         <item itemvalue="Gradle.UserServiceTest.testAddNullUser" />
         <item itemvalue="Gradle.UserServiceTest.testLoginUser" />
         <item itemvalue="Gradle.LogServiceTest.addLogs" />
         <item itemvalue="Gradle.UserServiceTest" />
-        <item itemvalue="Gradle.Tests in 'BugBounty.test'" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +238,7 @@
       <workItem from="1588083738244" duration="559000" />
       <workItem from="1588196610420" duration="274000" />
       <workItem from="1588197286447" duration="98000" />
-      <workItem from="1588197475909" duration="11752000" />
+      <workItem from="1588197475909" duration="13647000" />
     </task>
     <servers />
   </component>
@@ -258,38 +267,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588079620888" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1588219858626">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1588224385221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1588219858626">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588224385221" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1588224385221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1588219858626">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588224385221" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1588224385221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1588219858626">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588224385221" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1588224385221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588219858626">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588224385221" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588224385221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1588219858626">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588224385221" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1588224385221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1588219858626">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588224385221" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1588224385221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1588219858626">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588224385221" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1588224385221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588219858626" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588224385221" />
     <state x="676" y="58" key="SettingsEditor" timestamp="1588197493169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -298,6 +307,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588197494490" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/edu/unicen/tallerjava/todo/todo/TodoServiceTest.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BugBounty$Tests_in__BugBounty_test_.ic" NAME="Tests in 'BugBounty.test' Coverage Results" MODIFIED="1588198455463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
