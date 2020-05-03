@@ -105,8 +105,8 @@ public class UserServiceTest {
     @Test()
     public void testAddUsersAndClear() throws Exception {
         //AGREGAR MAS ITERACIONES PARA QUE FALLE SIEMPRE, ES INESTABLE
-        for (int i = 0; i < 100; i++) {
-            for (int j = 0; j < 5000; j++) {
+        for (int i = 0; i < 200; i++) {
+            for (int j = 0; j < 10000; j++) {
                 userService.addUser(new User("Test", i * j));
             }
             userService.clearUsers();
@@ -115,6 +115,7 @@ public class UserServiceTest {
             // Chequear que no se pase de aprox. 400MB de RAM.
             if (currentMemory > 1000 * 1000 * 400)
                 throw new Exception("Demasiada Memoria: " + currentMemory / 1024 + " mb");
+
         }
     }
 }
