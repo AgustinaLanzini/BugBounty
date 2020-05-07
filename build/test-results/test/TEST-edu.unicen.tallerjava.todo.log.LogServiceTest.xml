@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.unicen.tallerjava.todo.log.LogServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-03T23:52:42" hostname="DESKTOP-I1F4DBT" time="33.161">
+  <properties/>
+  <testcase name="addLogs" classname="edu.unicen.tallerjava.todo.log.LogServiceTest" time="1.037"/>
+  <testcase name="getLogsByUser" classname="edu.unicen.tallerjava.todo.log.LogServiceTest" time="0.018"/>
+  <testcase name="hasAllLogsConcurrent" classname="edu.unicen.tallerjava.todo.log.LogServiceTest" time="32.103"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

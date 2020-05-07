@@ -104,7 +104,6 @@ public class UserServiceTest {
 
     @Test()
     public void testAddUsersAndClear() throws Exception {
-        //AGREGAR MAS ITERACIONES PARA QUE FALLE SIEMPRE, ES INESTABLE
         for (int i = 0; i < 200; i++) {
             for (int j = 0; j < 10000; j++) {
                 userService.addUser(new User("Test", i * j));

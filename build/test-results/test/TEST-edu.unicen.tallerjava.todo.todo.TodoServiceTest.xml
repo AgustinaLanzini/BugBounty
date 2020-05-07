@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.unicen.tallerjava.todo.todo.TodoServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-05-03T23:53:15" hostname="DESKTOP-I1F4DBT" time="6.417">
+  <properties/>
+  <testcase name="testTimerDelete" classname="edu.unicen.tallerjava.todo.todo.TodoServiceTest" time="6.414"/>
+  <testcase name="testCreateTodo" classname="edu.unicen.tallerjava.todo.todo.TodoServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

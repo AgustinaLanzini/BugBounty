@@ -42,7 +42,7 @@ public class User {
 
     @Override
     public boolean equals(Object o) {
-        return Objects.equals(name, ((User) o).name);
+        return Objects.equals(id, ((User) o).id) && Objects.equals(name, ((User) o).name);
     }
 
     @Override
